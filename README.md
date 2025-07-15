@@ -1,7 +1,6 @@
 # Sentiment Analysis Voice API
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
-![Docker](https://img.shields.io/badge/Docker-Compose-blue.svg)
 
 ## Project Description
 
@@ -17,13 +16,11 @@ The **Sentiment Analysis Voice API** is an innovative project that leverages voi
 | Technology         | Description                          |
 |--------------------|--------------------------------------|
 | ![Python](https://img.shields.io/badge/Python-3.10-blue.svg) | Programming language used for backend development. |
-| ![Docker](https://img.shields.io/badge/Docker-Compose-blue.svg) | Containerization tool for managing application services. |
 
 ## Installation Instructions
 
 ### Prerequisites
 - Python 3.10 or higher
-- Docker and Docker Compose
 
 ### Step-by-Step Installation Guide
 1. **Clone the repository**:
@@ -41,11 +38,6 @@ The **Sentiment Analysis Voice API** is an innovative project that leverages voi
 3. **Set up environment variables** (if applicable):
    - Create a `.env` file in the root directory and define any necessary environment variables. (Refer to the documentation of any specific libraries used for details on required variables.)
 
-4. **Run the application**:
-   - You can start the application using Docker:
-   ```bash
-   docker-compose up
-   ```
 
 ## Usage
 
